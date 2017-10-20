@@ -14,7 +14,7 @@ namespace GameSenseNativeMessaging
 {
     public class ChromeHost : Host
     {
-        private const bool SendConfirmationReceipt = false;
+        private const bool SendConfirmationReceipt = true;
 
         static GameSenseClient Client;
 

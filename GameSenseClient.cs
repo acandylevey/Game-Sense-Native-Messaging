@@ -14,7 +14,7 @@ namespace GameSenseNativeMessaging
 {
     public class GameSenseClient
     {
-        string Destination = "http://localhost:50661"; //Temp for now, will need to read this from : C:\ProgramData\SteelSeries\SteelSeries Engine 3\coreProps.json later.
+        string Destination = "http://localhost:49682"; //Temp for now, will need to read this from : C:\ProgramData\SteelSeries\SteelSeries Engine 3\coreProps.json later.
 
         public string Name = "CHROMECONNECT";
 
